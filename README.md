@@ -5,3 +5,12 @@ Note: Install versions 2.00 through 2.10 of THE FOUNDRY Mischief. An additional 
 https://www.microsoft.com/ja-jp/download/details.aspx?id=26999
 
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/030459gik5pspim7zsp07q.jpg)
+
+Mischief 1.00 ~ 1.12 vesion:
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-11_15-28-11.jpg)
+
+Mischief 2.00 ~ 2.16 vesion:
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-11_15-26-44.jpg)
+
+
+
