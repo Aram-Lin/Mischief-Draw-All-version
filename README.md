@@ -19,3 +19,15 @@ Mischief 2.00 ~ 2.16 version:
 
 
 
+
+
+# Mischief Mischief Modified Version 1.1.2(white and black theme)
+
+Change content: mainly to modify the screen layout.Strengthen the font size, change the color.Make it more comfortable to use.
+(I came across the Mischief folder layout that uses.jpg images and wondered if I could change the layout to something like this.It worked out so I want to share it here, I like it a lot.
+
+Mischief Mischief Modified Version 1.1.2 white:
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-16_01-24-44.jpg)
+
+Mischief Mischief Modified Version 1.1.2 black:
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-16_01-24-31.jpg)
