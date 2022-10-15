@@ -1,3 +1,8 @@
+# Mischief
+Project to host the Mischief binaries and codes. Purpose is to reverse engineer the Mischief project for education purposes.
+
+
+
 # Mischief-Draw-All-version
 This is from a set of graphics software. Mischief has stopped development and the official website has stopped operating. I will share the version I find as best I can.
 
