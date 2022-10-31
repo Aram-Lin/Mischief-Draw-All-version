@@ -23,11 +23,13 @@ Mischief 1.00 ~ 1.12 version:
 Mischief 2.00 ~ 2.16 version:
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-11_15-26-44.jpg)
 
+｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜
+
+                                                # Mischief Modified version
 
 
-
-
-# Mischief Mischief Modified Version 1.1.2(white and black theme)
+｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜
+Mischief Mischief Modified Version 1.1.2(white and black theme)
 
 Change content: mainly to modify the screen layout.Strengthen the font size, change the color.Make it more comfortable to use.
 (I came across the Mischief folder layout that uses.jpg images and wondered if I could change the layout to something like this.It worked out so I want to share it here, I like it a lot.
@@ -36,7 +38,7 @@ Change content: mainly to modify the screen layout.Strengthen the font size, cha
 
 
 
-# Mischief Lite Version 1.1.2(white and black theme)
+Mischief Lite Version 1.1.2(white and black theme)
 
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-31_13-06-58.png)
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-31_13-07-13.png)
