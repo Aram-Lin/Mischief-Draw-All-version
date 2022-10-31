@@ -1,6 +1,12 @@
 # Mischief
 Project to host the Mischief binaries and codes. Purpose is to reverse engineer the Mischief project for education purposes.
 
+# Key
+TEAM@DVT.ORG
+023b2bccdafe331e0cca2cb94938feeb
+
+hex53746576656e@hotmail.com
+fec8cf60d206d4eeffb51bd3e471add2
 
 
 # Mischief-Draw-All-version
@@ -31,3 +37,13 @@ Mischief Mischief Modified Version 1.1.2 white:
 
 Mischief Mischief Modified Version 1.1.2 black:
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-16_01-24-31.jpg)
+
+
+
+# Mischief Lite Version 1.1.2(white and black theme)
+
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-31_13-06-58.png)
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-31_13-07-13.png)
+
+Delete all unnecessary images. Reduce file size. 
+More intuitive. There are no words.
