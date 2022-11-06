@@ -1,10 +1,10 @@
 # Mischief
 Project to host the Mischief binaries and codes. Purpose is to reverse engineer the Mischief project for education purposes.
 
-# Why mischief "https://www.deviantart.com/madewithmischief"
+# Why mischief 
 Less is more. I want to make something so simple to use that you don't have to think. You don't have to read a manual. You don't have to know anything about printing resolution or screen size or memory limits or who you are making your artwork for, or how big it is going to be, or where it is going when you start drawing. We want to make it possible to make those decisions after you have created your masterpiece. Great tools for creating artwork should be accessible to everyone. &nbsp;Great software should be invisible to the user. Drawing with a computer can be as fun and as powerful as drawing with pencil and paper. Digital drawing doesn't requi
 
-｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜
+"https://www.deviantart.com/madewithmischief"
 
 # Key
 TEAM@DVT.ORG
