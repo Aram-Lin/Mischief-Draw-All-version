@@ -7,9 +7,10 @@ Less is more. I want to make something so simple to use that you don't have to t
 "https://www.deviantart.com/madewithmischief"
 
 # Key
+
 TEAM@DVT.ORG
 023b2bccdafe331e0cca2cb94938feeb
-|
+
 hex53746576656e@hotmail.com
 fec8cf60d206d4eeffb51bd3e471add2
 
