@@ -47,3 +47,15 @@ Mischief Lite Version 1.1.2(white and black theme)
 
 Delete all unnecessary images. Reduce file size. 
 More intuitive. There are no words.
+
+
+
+
+Mischief_2.1.6_Lite (Portable)
+
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-11_15-26-44.jpg)
+
+Delete unnecessary files and images, leaving only files that work.Reduced file size
+ 
+Remove:QtNetwork4.dll | QtWebKit4.dll | Raleway-Regular | Uninstall | User Guide | vcredist_x86 | 
+Image: Guided introduction | using shortcut keys | Publicity picture advertisement
