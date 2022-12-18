@@ -61,9 +61,8 @@ Remove:QtNetwork4.dll | QtWebKit4.dll | Raleway-Regular | Uninstall | User Guide
 Image: Guided introduction | using shortcut keys | Publicity picture advertisement
 
 ——————————————————————————————————————————————
+# Portable
 In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. 
 Fix the problem with version 1.12 not being able to use （.art） files
 
-The file name will be tagged 
-Mischief_2.1.6_Thinapp.7z 
-Mischief_1.1.2_Thinapp.exe
+The file name will be tagged Mischief_2.1.6 → Mischief_2.1.6_Thinapp.7z
