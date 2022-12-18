@@ -65,4 +65,6 @@ Image: Guided introduction | using shortcut keys | Publicity picture advertiseme
 In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. 
 Fix the problem with version 1.12 not being able to use （.art） files
 
-The file name will be tagged Mischief_2.1.6 → Mischief_2.1.6_Thinapp.7z
+The file name will be tagged
+Mischief_2.1.6_Thinapp.7z
+Mischief_1.12_Portable.7z
