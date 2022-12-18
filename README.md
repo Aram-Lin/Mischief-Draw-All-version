@@ -61,6 +61,7 @@ Remove:QtNetwork4.dll | QtWebKit4.dll | Raleway-Regular | Uninstall | User Guide
 Image: Guided introduction | using shortcut keys | Publicity picture advertisement
 
 ——————————————————————————————————————————————
+
 In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. 
 Fix the problem with version 1.12 not being able to use （.art） files
 
