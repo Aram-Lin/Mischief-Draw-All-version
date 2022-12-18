@@ -59,3 +59,9 @@ Delete unnecessary files and images, leaving only files that work.Reduced file s
  
 Remove:QtNetwork4.dll | QtWebKit4.dll | Raleway-Regular | Uninstall | User Guide | vcredist_x86 | 
 Image: Guided introduction | using shortcut keys | Publicity picture advertisement
+
+——————————————————————————————————————————————
+In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. 
+Fix the problem with version 1.12 not being able to use （.art） files
+
+The file name will be tagged Mischief_2.1.6 → Mischief_2.1.6_Thinapp.7z
