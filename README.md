@@ -38,19 +38,6 @@ Change content: mainly to modify the screen layout.Strengthen the font size, cha
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/1111.png)
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/2222.png)
 
-
-
-Mischief Lite Version 1.1.2(white and black theme)
-
-![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/33333.png)
-![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/4444.png)
-
-Delete all unnecessary images. Reduce file size. 
-More intuitive. There are no words.
-
-
-
-
 Mischief_2.1.6_Lite (Portable)
 
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/Snipaste_2022-10-11_15-26-44.jpg)
