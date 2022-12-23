@@ -44,5 +44,6 @@ In addition to the above description, I also used Vmware Thinapp to make a real 
 Fix the problem with version 1.12 not being able to use （.art） files
 
 The file name will be tagged:
-Mischief—2.1.6_Thinapp.exe |Mischief—Dark_1.1.2_Thinapp.exe｜ Mischief—White_1.1.2_Thinapp.exe | Mischief—No_Change_1.1.2_Thinapp.exe
+Mischief—2.1.6_Thinapp.exe | Mischief—Dark_1.1.2_Thinapp.exe ｜ Mischief—White_1.1.2_Thinapp.exe | Mischief—No_Change_1.1.2_Thinapp.exe 
+_____________________________________________
 The other 1.12 files use a Portable version made by CheshireCat
