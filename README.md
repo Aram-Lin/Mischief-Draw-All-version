@@ -15,9 +15,7 @@ hex53746576656e@hotmail.com
 fec8cf60d206d4eeffb51bd3e471add2
 
 
-Note: Install versions 2.00 through 2.10 of THE FOUNDRY Mischief. An additional 
-x86 with Microsoft Visual C++ 2010 Service Pack 1 a-n-d  Microsoft Visual C++ 2013
-
+Note: Install versions 2.00 through 2.10 of THE FOUNDRY Mischief. An additional  x86 with Microsoft Visual C++ 2010 Service Pack 1 and  Microsoft Visual C++ 2013 (2.1.6 Version)
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/030459gik5pspim7zsp07q.jpg)
 
 Mischief 1.00 ~ 1.12 version:
