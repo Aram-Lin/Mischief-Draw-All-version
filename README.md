@@ -2,9 +2,17 @@
 Project to host the Mischief binaries and codes. Purpose is to reverse engineer the Mischief project for education purposes.
 
 # Why mischief 
-Less is more. I want to make something so simple to use that you don't have to think. You don't have to read a manual. You don't have to know anything about printing resolution or screen size or memory limits or who you are making your artwork for, or how big it is going to be, or where it is going when you start drawing. We want to make it possible to make those decisions after you have created your masterpiece. Great tools for creating artwork should be accessible to everyone. &nbsp;Great software should be invisible to the user. Drawing with a computer can be as fun and as powerful as drawing with pencil and paper. Digital drawing doesn't requi
+Less is more.
 
-"https://www.deviantart.com/madewithmischief"
+I want to make something so simple to use that you don't have to think. You don't have to read a manual. You don't have to know anything about printing resolution or screen size or memory limits or who you are making your artwork for, or how big it is going to be, or where it is going when you start drawing. We want to make it possible to make those decisions after you have created your masterpiece.
+
+Great tools for creating artwork should be accessible to everyone.  Great software should be invisible to the user.
+
+Drawing with a computer can be as fun and as powerful as drawing with pencil and paper. Digital drawing doesn't require compromises.  You don't need to choose between pixels and vectors - there is a better way.
+
+-Sarah Frisken
+"https://www.deviantart.com/madewithmischief/journal/why-mischief-409646395"
+
 
 # Key
 
