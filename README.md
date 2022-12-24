@@ -46,7 +46,8 @@ Change content: mainly to modify the screen layout.Strengthen the font size, cha
 
 ——————————————————————————————————————————————
 # Real Portable
-In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. Because it's a virtualization technology. Truly isolated from the system. Everything's in this file I don't use the common scripted Portable for a simple reason. That's not really portable. Its principle is to open the software automatically add registry, shut down the software automatically delete registry.
+In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry.     Because it's a virtualization technology.     Truly isolated from the system. Everything's in this file  I don't use the common scripted Portable. also don't use .paf files made by PortableApps, 
+ for a simple reason which is also a scripted Portable  That's not really portable.     Its principle is to open the software automatically add registry, shut down the software automatically delete registry.
 
 Fix the problem with version 1.12 not being able to use （.art） files 
 
