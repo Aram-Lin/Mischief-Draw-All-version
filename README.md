@@ -46,10 +46,11 @@ Change content: mainly to modify the screen layout.Strengthen the font size, cha
 
 ——————————————————————————————————————————————
 # Real Portable
-In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. 
-Fix the problem with version 1.12 not being able to use （.art） files
+In addition to the above description, I also used Vmware Thinapp to make a real Portable without having to worry about the registry. Because it's a virtualization technology. Truly isolated from the system. Everything's in this file I don't use the common scripted Portable for a simple reason. That's not really portable. Its principle is to open the software automatically add registry, shut down the software automatically delete registry.
+
+Fix the problem with version 1.12 not being able to use （.art） files 
 
 The file name will be tagged:
 Mischief—2.1.6_Thinapp.exe | Mischief—Dark_1.1.2_Thinapp.exe ｜ Mischief—White_1.1.2_Thinapp.exe | Mischief—No_Change_1.1.2_Thinapp.exe 
 _____________________________________________
-The other 1.12 files use a Portable version made by CheshireCat
+The other 1.12 files use a Portable version made by CheshireCat （You can find it in History -- Not Real Portable.）
