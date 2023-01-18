@@ -30,9 +30,9 @@ https://www.deviantart.com/madewithmischief/journal/why-mischief-409646395
 
 Note: Versions 2.00 to 2.10 require an additional x86 with Microsoft Visual C++ 2010 Service Pack 1 and Microsoft Visual C++ 2013 (2.1.6 Version). They have been provided for your convenience. 
 
-# Mischief Modified
+# Mischief Modified (Fake Portable)
 
-Mischief Modified is a modification made by CheshireCat that changes the screen layout, font sizes, and colors in order to make the program more comfortable to use. I liked my changes a lot, so I decided to share it. You can find both a light and dark version in the downloads [here](https://github.com/Aram-Lin/Mischief-Draw-All-version/tree/main/Mischief%20Modified%20Version/History%E2%80%94Not%20Real%20Portable), or in the "History—Not Real Portable" folder found in the "Mischief Modified Version" folder.
+Mischief Modified (Fake Portable) is a modification made by CheshireCat that changes the screen layout, font sizes, and colors in order to make the program more comfortable to use. I liked my changes a lot, so I decided to share it. You can find both a light and dark version in the downloads [here](https://github.com/Aram-Lin/Mischief-Draw-All-version/tree/main/Mischief%20Modified%20Version/History%E2%80%94Not%20Real%20Portable), or in the "History—Not Real Portable" folder found in the "Mischief Modified Version" folder.
 
 
 ### Mischief Modified Version 1.1.2 (Dark)
@@ -40,11 +40,11 @@ Mischief Modified is a modification made by CheshireCat that changes the screen 
 
 
 # Real Portable
-In addition to the above, I have also provided a "real" portable version using VMWare's ThinApp.
+In addition to the above, I have also provided a "real" portable version using Turbo Studio and ThinApp making.
 By default, Mischief will create files in registry/appdata/etc, even when using the official "portable" versions. This "real" version works by creating a single folder that will contain all appdata/registery items. Upon launch, the program will move these files where necessary - and after you shut down the program, they will be moved back.
 I've also fixed the problem with version 1.12 not being able to use .art files. 
 
-You can find download this version [here](Mischief Modified Version/), or in the "Mischief Modified Version" folder.
+You can find download this version [here](https://github.com/Aram-Lin/Mischief-Draw-All-version/tree/main/Mischief%20Modified%20Version)
 
 -----------------------
 ### Key
