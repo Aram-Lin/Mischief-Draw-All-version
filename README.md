@@ -38,6 +38,8 @@ Mischief Modified (Fake Portable) is a modification made by CheshireCat that cha
 ### Mischief Modified Version 1.1.2 (Dark)
 ![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/1111.png)
 
+### Mischief Modified Version 1.1.2 (White)
+![image](https://github.com/Aram-Lin/Mischief-Draw-All-version/blob/main/photo/2222.png)
 
 # Real Portable
 In addition to the above, I have also provided a "real" portable version using Turbo Studio and ThinApp making.
